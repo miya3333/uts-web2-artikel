@@ -25,7 +25,7 @@ Tugas UTS Pemrograman Web2 - Semester 4
 <img src="screenshot/ex1-1.png" width="75%" alt="1">
 
 > Pada web yang tingkat keamanan cukup baik:
-<img src="screenshot/ex1-2.png" width="75%" alt="1">
+<img src="screenshot/ex1_2.png" width="75%" alt="2">
 
 ---
 
@@ -34,7 +34,7 @@ Tugas UTS Pemrograman Web2 - Semester 4
 <img src="screenshot/ex2-1.png" width="75%" alt="1">
 
 > Pada web yang tingkat keamanan cukup baik:
-<img src="screenshot/ex2-2.png" width="75%" alt="1">
+<img src="screenshot/ex2-2.png" width="75%" alt="2">
 
 ---
 
@@ -43,4 +43,4 @@ Tugas UTS Pemrograman Web2 - Semester 4
 <img src="screenshot/ex3-1.png" width="75%" alt="1">
 
 > Pada web yang tingkat keamanan cukup baik:
-<img src="screenshot/ex3-2.png" width="75%" alt="1">
+<img src="screenshot/ex3-2.png" width="75%" alt="2">
